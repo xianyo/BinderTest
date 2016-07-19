@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinderTest.iml" filepath="$PROJECT_DIR$/BinderTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaclient/javaclient.iml" filepath="$PROJECT_DIR$/javaclient/javaclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanativeclient/javanativeclient.iml" filepath="$PROJECT_DIR$/javanativeclient/javanativeclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaservice/javaservice.iml" filepath="$PROJECT_DIR$/javaservice/javaservice.iml" />
+    </modules>
+  </component>
+</project>

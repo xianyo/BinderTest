@@ -1,0 +1,2 @@
+include ':javaclient', ':javanativeclient'
+include ':javaservice'
